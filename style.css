@@ -1,0 +1,30 @@
+body{
+    
+    width: 100%;
+    
+}
+h1 {
+     color: rgb(70, 142, 206);
+    text-align: center;
+}
+
+label{
+    color:rgb(218, 130, 22)
+}
+p{
+    color: rgb(118, 238, 238);
+    text-align: center;
+    text-decoration: wavy;
+}
+.form-group {
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+   
+}
+.row{
+    padding: 10px;
+}
+.container-fluid{
+    background-color: bisque;
+}
